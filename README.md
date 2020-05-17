@@ -6,4 +6,4 @@ https://github.com/corazzon
 <br>
 https://ehfgk78.github.io/blog
 
-[ VScode ] EXTENSIONS) Go Live 설치 > 'VScode'아래 Go Live클릭
+[ VScode ] EXTENSIONS) Live Server 설치 > 'VScode'아래 Go Live클릭
